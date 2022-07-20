@@ -1,2 +1,4 @@
-package exercises;public class Alice {
+package exercises;
+
+public class Alice {
 }
