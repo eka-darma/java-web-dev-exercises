@@ -13,7 +13,7 @@ public class Area {
             System.out.println("Radius must be Positive Number");
         } else {
             // Double A = pi * r * r;
-            Double A = Circle.getArea(r);
+            Double A = Circle.getArea(r); // Calling the Circle.java
             System.out.println("The area of a circle of radius " + r + " is: " + A);
         }
     }
